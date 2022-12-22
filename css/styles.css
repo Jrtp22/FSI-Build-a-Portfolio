@@ -2,6 +2,7 @@
  background-color: rgb(0, 0, 0); 
  text-align: center;
  color: green;
+ cursor:cell;
 }
 p.Pic{
 background-color: blueviolet;
@@ -9,4 +10,15 @@ border-style:dashed;
 border-color: green;
 border-radius: 20px;
 border-width: 5px;
+cursor:wait;
+background-clip: content-box;
+}
+h1.name{
+font-style: oblique;
+color:blueviolet;
+text-decoration: underline;
+}
+ul.prodjects{
+text-align: left;
+
 }
