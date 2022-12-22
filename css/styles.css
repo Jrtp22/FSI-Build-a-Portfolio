@@ -1,3 +1,12 @@
-.main 
- background-color: blueviolet; 
+.main {
+ background-color: rgb(0, 0, 0); 
  text-align: center;
+ color: green;
+}
+p.Pic{
+background-color: blueviolet;
+border-style:dashed;
+border-color: green;
+border-radius: 20px;
+border-width: 5px;
+}
